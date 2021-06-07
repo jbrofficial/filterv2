@@ -7,7 +7,7 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/TroJanzHEX/Auto-Filter-Bot/stargazers">
+  <a href="https://github.com/jbrofficial/filterv2">
     <img src="https://img.shields.io/github/stars/TroJanzHEX/Auto-Filter-Bot?style=social">
 
   </a>
@@ -41,21 +41,21 @@
 
 ## You can check the video tutorial on how to deploy
 
-[Click here to see tutorial video](https://youtu.be/KQVYQAOsFYY)
+[Click here to see tutorial video](https://github.com/jbrofficial/filterv2)
 
-Thanks to [InfotelGroup](https://telegram.dog/InFoTelGroup) and [Erich Daniken](https://telegram.dog/ErichDaniken) for the video
+Thanks to [InfotelGroup](https://telegram.dog/crazy_rockers) and [Erich Daniken](https://telegram.dog/crazy_rockers) for the video
 
-## Any bugs or errors or suggestions, report at [TroJanzSupport](https://telegram.dog/TroJanzSupport)
+## Any bugs or errors or suggestions, report at [TroJanzSupport](https://telegram.dog/crazy_rockers)
 
 
 ## Installation
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TroJanzHEX/Auto-Filter-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/jbrofficial/filterv2)
 
 ### Deploy in your vps
 ```sh
-git clone https://github.com/TroJanzHEX/Auto-Filter-Bot
+git clone https://github.com/jbrofficial/filterv2
 cd Auto-Filter-Bot
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
